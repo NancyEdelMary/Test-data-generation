@@ -1,2 +1,7 @@
 Docling:
 https://colab.research.google.com/drive/11k2duQakEBc_Q2CAV6KOh4oP7wvLu63p?usp=sharing
+
+Hasystack:
+https://colab.research.google.com/drive/1QRc_fwzS_Kfetuw0T1i9AdR_R1bGvB8c?usp=sharing
+https://colab.research.google.com/drive/1MyhBUgaOMporzit2xDvhuXl-BJUOPzG7?usp=sharing
+ 
